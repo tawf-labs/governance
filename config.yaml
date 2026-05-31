@@ -1,3 +1,6 @@
+# Tawf Foundation GitHub teams and repository access permissions.
+# Tawf Labs is the engineering organization. Tawf Foundation is the governance body.
+
 teams:
   - name: tawf-core
     description: Core maintainers with admin access to governance and protocol repos
