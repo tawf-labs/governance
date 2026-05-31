@@ -1,0 +1,23 @@
+teams:
+  - name: tawf-core
+    description: Core maintainers with admin access to governance and protocol repos
+    maintainers:
+      - mzf11125
+    members:
+  - name: tawf-council
+    description: Sharia Council members with write access for compliance review
+    maintainers:
+      - mzf11125
+    members:
+
+repositories:
+  - name: governance
+    teams:
+      tawf-core: admin
+      tawf-council: write
+    visibility: public
+  - name: tawf-gov
+    teams:
+      tawf-core: admin
+      tawf-council: write
+    visibility: public

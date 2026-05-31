@@ -1,0 +1,11 @@
+# Tawf Labs Governance — Code Owners
+# These owners will be automatically requested for review on PRs.
+
+# Governance configuration and charter
+CHARTER.md @mzf11125
+GOVERNANCE.md @mzf11125
+config.yaml @mzf11125
+CODEOWNERS @mzf11125
+
+# License changes require maintainer review
+LICENSE @mzf11125
